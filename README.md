@@ -2,7 +2,7 @@
 
 This document contains some thoughts on how the world is structured.
 
-## politics
+# politics
 
 > the distribution of power
 
@@ -12,27 +12,59 @@ This document contains some thoughts on how the world is structured.
 
 ## capitalism
 
-- control of the means of production
-	- those with capital can sell other peoples labour at profit
-	- capital gains
+> those control of the means of production may profit from the work others by sheer merit
+
+- those with capital can sell other peoples labour at profit
+- investment, speculation & capital gains
 - freedom of trade
-- infinte growth myth
+- infinite growth myth
 - violence to enforce capitalism
 	- threat of eviction
 	- preventable poverty to maintain **motivation** to work
 
-## liberalism / the centre
+## socialism / communism
 
-> the status quo
+# community of & solidarity through capacity/strength
+
+> meritocracy
+
+- "The poor are where they are because they deserve it."
+- "What can the immigrants do **for us**?"
+- systemic oppression of minorities & vulnerable communities
+	- transphobic
+	- homo- & biphobic
+	- ableist
+	- non-secular
+	- body shaming
+	- ageism
+	- racism
+
+# economy for public welfare & common good
+
+> community of & solidarity through vulnerability
+
+- a collective of humans where all belong
+- shared needs for
+	- health care
+	- shelter
+	- justice
+	- spare time
+	- civil liberties
+
+
+# liberalism / the centre
+
+> the status quo. capitalist anti-communist "democracy"
+
+## commonalities in liberal ideologies
 
 - self-declaredly pro democracy
-	- although this is not an ideal liberals are keen to act upon
-- pro civil rights, secularism, gender and race equality, internationalism
+- pro civil liberties, secularism, gender and race equality, internationalism (in theory)
+- pro military intervention, militarism & weapon deals
 - pro freedom markets / capitalism
 	- power bartered to the wealthy
 	- remove barriers to trade
 - law & order
-	- community of & solidarity through capacity/strength 
 	- reinforcing wealth disparities
 	- platforming fascists
 	- risk managing the possibilities of terrorism (which is a response to liberal hegemonies)
@@ -43,30 +75,40 @@ This document contains some thoughts on how the world is structured.
 	- as seen in Germany, Italy, early 21st century right wing trends
 	- ground for gradual transition into fascism
 
-### we are at a political cross-road
+## we are at a political cross-road
 
-- liberal politics have allowed capitalism to flourish
+- liberal politics have allowed capitalism to flourish & exploit
+	- the human race
+	- natural resources
 - pandering to capitalist ideology while throwing working class under the bus
+- active anti socialist / communist propaganda
+	- censorship
+	- police violence
 - blatant growing inequality
 	- wage stagnation
+	- unpaid overtime
+	- union busting
 	- gentrification
-	- corporate & bank bailouts
 	- austerity
+	- corporate & bank bailouts
+	- deregulation of finances
 	- tax cuts for the rich
+	- governing according to bankers
 - deterioration of social securities
 	- cutbacks in government spending
+	- rise in child births
 - 21st century capitalism is failing
 	- negative interest
 	- bankrupt countries
 - pushes working class people to seek alternative
 
-## fascism
+# fascism / the right
 
 > [fascism is] a form of political behaviour marked by obsessive preoccupation with community decline, humiliation, or victimhood and by compensatory cults of unity, energy, and purity, in which a mass-based party of committed nationalist militants, working in uneasy but effective collaboration with traditional elites, abandons democratic liberties and pursues with redemptive violence and without ethical or legal restraints goals of internal cleansing and external expansion
 >
 >Robert Paxton
 
-### some common traits in fascist ideologies:
+## commonalities in fascist ideologies
 
 - essentially conservative (preserving/restoring some mythical "better" past)
 	- myth of national rebirth from decadence (Palingenesis )
@@ -90,7 +132,7 @@ This document contains some thoughts on how the world is structured.
 	- tendencies for paramilitary organization (civilians with weapons)
 	- pursues "redemptive" violence without ethical or legal restraints with goals of internal clensing and expansion
 - pro aggressive & imperialist foreign policy
-- community of & solidarity through capacity/strength
+- community of & solidarity through capacity/strength TO THE EXTREME
 	- promoting the right of a supposedly superior people to dominate
 		- purging society of supposedly inferior elements
 	- moral monopoly / authority on what's decent and what's not
@@ -107,31 +149,65 @@ This document contains some thoughts on how the world is structured.
 		- transphobia
 		- violence against all non-conformity regading gender & sexuality
 		- rape apologist narrative
-- effective propaganda
-	- attack & delegitimize press
-	- tactics of confusion / post-truth (hypernormalization)
-	- anti "snowflake culture" (their label for civil liberty avocation)
-	- fear mongering
-		- xenophobia
-		- threat in the realm of maybe
-	- rhetoric of opportunism by adoption of new political goals for wider appeal
 
-## the left
+## effective propaganda
+
+- attack & delegitimize press
+- tactics of confusion / post-truth (hypernormalization)
+- anti "snowflake culture" (their label for civil liberty avocation)
+- doublethink
+- fear mongering
+	- xenophobia
+	- threat in the realm of maybe
+- rhetoric of opportunism by adoption of new political goals for wider appeal
+	- bait in swing votes by targeted rhetoric
+
+# socialism / communism / the left
+
+> for the people, by the people
+
+## commonalities in socialist / communist ideologies
 
 - pro democracy & socialism
 	- workers control the politics & economy
-- diversity of race, genders & sexualities
+- pro civil-rights - diversity of race, genders & sexualities
 	- pro immigration
-	- feminism
+	- feminism & women's rights
 		- reproductive freedom (abortion rights)
+		- pro sex workers rights
 	- lgbtqia+ rights movements
 	- consent culture
 		- anti rape culture
 			- dismanteling toxic masulinity
 			- allowing emotion & vulnerability
 		- educate offenders
+	- inclusion and egalitarian treatment of all without discrimination against
+		- gender
+		- gender identity and expression
+		- sexual orientation
+		- disability
+		- mental illness
+		- neurotype
+		- physical appearance
+		- body
+		- age
+		- race
+		- ethnicity
+		- nationality
+		- language
+		- religion
+	- normalizing vulnerabilities (dismantling shame)
+	- de-stigmatization of sex, body and attractions
+	- deconstruction and dismantling of oppressive systems
+		- de-colonization
+		- condemnation of hateful / derogatory / discriminatory language
 - pro peaceful foreign policy
-	- environmentalist (conserving nature & fighting global warming)
+- environmentalist
+	- conserving nature
+		- protecting wildlife diversity
+		- fight business practices harmful tonature
+	- fighting global warming
+		- keep fossils in the ground
 - progressive drug policies
 	- legalization of drugs (as seen in Portugal)
 - pro  workers rights
@@ -154,38 +230,7 @@ This document contains some thoughts on how the world is structured.
 	- exploitation through lack of policing & taxation of corporate interests
 	- failure to control capitalists repeatedly driving economies into the ground
 
-### economy for public welfare & common good
-
-> community of & solidarity through vulnerability
-
-- a collective of humans where all belong
-- shared needs for
-	- health care
-	- shelter
-	- justice
-	- spare time
-	- civil liberties
-- normalizing vulnerabilities (dismantling shame)
-- inclusion and egalitarian treatment of all without discrimination against
-	- gender
-	- gender identity and expression
-	- sexual orientation
-	- disability
-	- mental illness
-	- neurotype
-	- physical appearance
-	- body
-	- age
-	- race
-	- ethnicity
-	- nationality
-	- language
-	- religion
-- deconstruction and dismantling of oppressive systems
-	- de-colonization
-	- condemnation of hateful / derogatory / discriminatory language
-
-### anti-fascism
+## anti-fascism
 
 - work against people who are actively building fascism
 	- prevent fascist ideas to spread (de-platform, counter protests)
